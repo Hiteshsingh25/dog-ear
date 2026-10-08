@@ -1,0 +1,93 @@
+{
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Romance",
+    "Thriller",
+    "Literary Fiction",
+    "Fantasy",
+    "Gothic",
+    "Historical",
+    "Magical Realism",
+    "Contemporary",
+    "and more!"
+  ],
+  "books": [
+    { "slug": "the-hollow-choir", "title": "The Hollow Choir", "author": "Mara Quill", "genre": 0, "tags": ["Horror", "Small Town"], "cover": { "bg": "#111111", "ink": "#f2f2f2", "accent": "#c8102e", "motif": "eye", "layout": "bottom", "face": "display" } },
+    { "slug": "salt-in-the-walls", "title": "Salt in the Walls", "author": "Desmond Achebe-Ross", "genre": 0, "tags": ["Horror", "Haunted House"], "blurb": "A grieving architect inherits a seaside house that was never finished, and slowly realises the plans were drawn by someone who wanted to keep something in, not out.", "cover": { "bg": "#0f766e", "ink": "#f2f2f2", "accent": "#a4f6f8", "motif": "drip", "layout": "top", "face": "display" } },
+    { "slug": "what-the-lake-kept", "title": "What the Lake Kept", "author": "Iris Vantongeren", "genre": 0, "tags": ["Horror", "Folk"], "cover": { "bg": "#0b2a6f", "ink": "#ddfcfc", "accent": "#1ce8ed", "motif": "waves", "layout": "center", "face": "sans" } },
+    { "slug": "little-teeth", "title": "Little Teeth", "author": "Rowan Blackmere", "genre": 0, "tags": ["Horror", "Includes a Cat"], "cover": { "bg": "#feb6fa", "ink": "#111111", "accent": "#ff008c", "motif": "zigzag", "layout": "stack", "face": "display" } },
+
+    { "slug": "orbital-lullaby", "title": "Orbital Lullaby", "author": "Theo Nakamura-Reyes", "genre": 1, "tags": ["Sci-Fi", "Space Opera"], "blurb": "Three generations into a one-way voyage, a ship's lullaby singer discovers the songs she inherited are navigation data, and someone has been changing the words.", "cover": { "bg": "#111111", "ink": "#ffd24a", "accent": "#9982de", "motif": "rings", "layout": "bottom", "face": "sans" } },
+    { "slug": "the-ninth-colony", "title": "The Ninth Colony", "author": "Priya Venkataraman", "genre": 1, "tags": ["Sci-Fi", "Political"], "cover": { "bg": "#f9a220", "ink": "#111111", "accent": "#670a2e", "motif": "sun", "layout": "top", "face": "display" } },
+    { "slug": "static-bloom", "title": "Static Bloom", "author": "Jonah Feldt", "genre": 1, "tags": ["Sci-Fi", "Cyberpunk"], "cover": { "bg": "#3b308f", "ink": "#1ce8ed", "accent": "#fd48f2", "motif": "dots", "layout": "center", "face": "display" } },
+    { "slug": "cartographers-of-dust", "title": "Cartographers of Dust", "author": "Lior Aharoni", "genre": 1, "tags": ["Sci-Fi", "Climate"], "cover": { "bg": "#e8d8c3", "ink": "#111111", "accent": "#f9a220", "motif": "mountain", "layout": "bottom", "face": "sans" } },
+
+    { "slug": "meet-me-at-closing-time", "title": "Meet Me at Closing Time", "author": "Bea Halloran", "genre": 2, "tags": ["Romance", "Rom-Com"], "blurb": "Two rival bookshop owners on the same street are forced to share a stockroom for one long, argumentative winter. The shelving is the least of what gets rearranged.", "cover": { "bg": "#ffd24a", "ink": "#670a2e", "accent": "#ff008c", "motif": "heart", "layout": "center", "face": "hand" } },
+    { "slug": "second-draft", "title": "Second Draft", "author": "Simone Okafor", "genre": 2, "tags": ["Romance", "Second Chance"], "cover": { "bg": "#ff008c", "ink": "#ffffff", "accent": "#ffd24a", "motif": "split", "layout": "top", "face": "sans" } },
+    { "slug": "the-lighthouse-rule", "title": "The Lighthouse Rule", "author": "Hattie Marsh", "genre": 2, "tags": ["Romance", "Small Town"], "cover": { "bg": "#a4f6f8", "ink": "#0b2a6f", "accent": "#f9a220", "motif": "arch", "layout": "bottom", "face": "hand" } },
+    { "slug": "overbooked", "title": "Overbooked", "author": "Nadia Ferreira", "genre": 2, "tags": ["Romance", "Travel"], "cover": { "bg": "#fddaa6", "ink": "#670a2e", "accent": "#fd48f2", "motif": "stairs", "layout": "stack", "face": "display" } },
+
+    { "slug": "the-quiet-floor", "title": "The Quiet Floor", "author": "Anders Lindqvist", "genre": 3, "tags": ["Thriller", "Nordic"], "blurb": "A night-shift hospital cleaner notices that the fourth floor is always spotless before she arrives. The more she learns about who works there, the less she wants to go back.", "cover": { "bg": "#f2f2f2", "ink": "#111111", "accent": "#c8102e", "motif": "window", "layout": "top", "face": "display" } },
+    { "slug": "everyone-at-the-table", "title": "Everyone at the Table", "author": "Celeste Duarte", "genre": 3, "tags": ["Thriller", "Domestic"], "cover": { "bg": "#670a2e", "ink": "#fddaa6", "accent": "#f9a220", "motif": "keyhole", "layout": "bottom", "face": "sans" } },
+    { "slug": "slow-poison", "title": "Slow Poison", "author": "Kit Adeyemi", "genre": 3, "tags": ["Thriller", "Legal"], "cover": { "bg": "#2de124", "ink": "#111111", "accent": "#0b2a6f", "motif": "drip", "layout": "center", "face": "display" } },
+    { "slug": "the-alibi-club", "title": "The Alibi Club", "author": "Marcus Whitfield", "genre": 3, "tags": ["Thriller", "Heist"], "cover": { "bg": "#0b2a6f", "ink": "#ffd24a", "accent": "#c8102e", "motif": "bolt", "layout": "stack", "face": "display" } },
+
+    { "slug": "small-weather", "title": "Small Weather", "author": "Ines Calloway", "genre": 4, "tags": ["Literary", "Family"], "cover": { "bg": "#ddfcfc", "ink": "#0b2a6f", "accent": "#9982de", "motif": "moon", "layout": "center", "face": "sans" } },
+    { "slug": "the-year-of-the-borrowed-house", "title": "The Year of the Borrowed House", "author": "Yusuf Demir", "genre": 4, "tags": ["Literary", "Translated"], "cover": { "bg": "#e8d8c3", "ink": "#111111", "accent": "#0f766e", "motif": "window", "layout": "bottom", "face": "sans" } },
+    { "slug": "tidewater-hymn", "title": "Tidewater Hymn", "author": "Anouk Pelletier", "genre": 4, "tags": ["Literary", "Coastal"], "cover": { "bg": "#0f766e", "ink": "#e8d8c3", "accent": "#ffd24a", "motif": "waves", "layout": "top", "face": "display" } },
+    { "slug": "a-grammar-of-leaving", "title": "A Grammar of Leaving", "author": "Sefa Boateng", "genre": 4, "tags": ["Literary", "Debut"], "cover": { "bg": "#c8102e", "ink": "#f2f2f2", "accent": "#111111", "motif": "spiral", "layout": "stack", "face": "sans" } },
+
+    { "slug": "the-ink-wardens", "title": "The Ink Wardens", "author": "Tamsin Oyelaran", "genre": 5, "tags": ["Fantasy", "Series Starter"], "cover": { "bg": "#3b308f", "ink": "#ffd24a", "accent": "#fd48f2", "motif": "moon", "layout": "bottom", "face": "display" } },
+    { "slug": "crown-of-moths", "title": "Crown of Moths", "author": "Ezra Halvorsen", "genre": 5, "tags": ["Fantasy", "Dark Academia"], "blurb": "At a college where every scholar binds a living moth to their memory, a scholarship student learns what happens to the moths of those who fail, and why the library is always warm.", "cover": { "bg": "#111111", "ink": "#fbbe63", "accent": "#9982de", "motif": "sun", "layout": "center", "face": "display" } },
+    { "slug": "the-cartomancers-daughter", "title": "The Cartomancer's Daughter", "author": "Luz Ibarra", "genre": 5, "tags": ["Fantasy", "Romantasy"], "cover": { "bg": "#ff008c", "ink": "#ffd24a", "accent": "#3b308f", "motif": "arch", "layout": "top", "face": "hand" } },
+    { "slug": "a-feast-for-small-gods", "title": "A Feast for Small Gods", "author": "Odile Marchetti", "genre": 5, "tags": ["Fantasy", "Cosy"], "cover": { "bg": "#fbbe63", "ink": "#670a2e", "accent": "#2de124", "motif": "dots", "layout": "stack", "face": "sans" } },
+
+    { "slug": "wither-house", "title": "Wither House", "author": "Beatrix Lorne", "genre": 6, "tags": ["Gothic", "Horror"], "cover": { "bg": "#111111", "ink": "#feb6fa", "accent": "#670a2e", "motif": "arch", "layout": "bottom", "face": "display" } },
+    { "slug": "the-governess-of-grey-fen", "title": "The Governess of Grey Fen", "author": "Helena Ashcombe", "genre": 6, "tags": ["Gothic", "Historical"], "cover": { "bg": "#d7cdf1", "ink": "#3b308f", "accent": "#111111", "motif": "window", "layout": "center", "face": "sans" } },
+    { "slug": "candlewick", "title": "Candlewick", "author": "Silas Northmoor", "genre": 6, "tags": ["Gothic", "Mystery"], "cover": { "bg": "#670a2e", "ink": "#ffd24a", "accent": "#f9a220", "motif": "keyhole", "layout": "top", "face": "display" } },
+    { "slug": "our-lady-of-rust", "title": "Our Lady of Rust", "author": "Margarethe Vos", "genre": 6, "tags": ["Gothic", "Industrial"], "cover": { "bg": "#857521", "ink": "#f2f2f2", "accent": "#c8102e", "motif": "bolt", "layout": "stack", "face": "display" } },
+
+    { "slug": "the-lantern-makers", "title": "The Lantern Makers", "author": "Ren Takahashi", "genre": 7, "tags": ["Historical", "Family Saga"], "cover": { "bg": "#c8102e", "ink": "#fddaa6", "accent": "#ffd24a", "motif": "sun", "layout": "bottom", "face": "sans" } },
+    { "slug": "seven-winters-at-kestrel-bay", "title": "Seven Winters at Kestrel Bay", "author": "Fionnuala Byrne", "genre": 7, "tags": ["Historical", "Coastal"], "cover": { "bg": "#a4f6f8", "ink": "#0b2a6f", "accent": "#f2f2f2", "motif": "mountain", "layout": "top", "face": "display" } },
+    { "slug": "the-typists-war", "title": "The Typist's War", "author": "Agnes Moreau", "genre": 7, "tags": ["Historical", "WWII"], "cover": { "bg": "#e8d8c3", "ink": "#111111", "accent": "#c8102e", "motif": "stripes", "layout": "center", "face": "sans" } },
+    { "slug": "indigo-road", "title": "Indigo Road", "author": "Kwame Asante-Hill", "genre": 7, "tags": ["Historical", "Epic"], "cover": { "bg": "#0b2a6f", "ink": "#fbbe63", "accent": "#1ce8ed", "motif": "stairs", "layout": "stack", "face": "display" } },
+
+    { "slug": "the-weather-inside-her", "title": "The Weather Inside Her", "author": "Paloma Reyes", "genre": 8, "tags": ["Magical Realism", "Translated"], "cover": { "bg": "#9982de", "ink": "#ffffff", "accent": "#ffd24a", "motif": "moon", "layout": "top", "face": "hand" } },
+    { "slug": "bakery-of-lost-hours", "title": "Bakery of Lost Hours", "author": "Emil Kovač", "genre": 8, "tags": ["Magical Realism", "Cosy"], "cover": { "bg": "#fddaa6", "ink": "#670a2e", "accent": "#0f766e", "motif": "rings", "layout": "bottom", "face": "sans" } },
+    { "slug": "where-the-rivers-practice", "title": "Where the Rivers Practice", "author": "Adaeze Nwosu", "genre": 8, "tags": ["Magical Realism", "Debut"], "cover": { "bg": "#1ce8ed", "ink": "#0b2a6f", "accent": "#ff008c", "motif": "waves", "layout": "center", "face": "display" } },
+    { "slug": "the-man-who-rented-clouds", "title": "The Man Who Rented Clouds", "author": "Tobias Wren", "genre": 8, "tags": ["Magical Realism", "Satire"], "cover": { "bg": "#f2f2f2", "ink": "#3b308f", "accent": "#fd48f2", "motif": "dots", "layout": "stack", "face": "hand" } },
+
+    { "slug": "group-chat", "title": "Group Chat", "author": "Leila Haddad", "genre": 9, "tags": ["Contemporary", "Friendship"], "blurb": "Five friends, one group chat, twelve years of messages. When one of them dies, the others discover the archive tells a very different story from the one they all agreed on.", "cover": { "bg": "#2de124", "ink": "#111111", "accent": "#ffffff", "motif": "split", "layout": "bottom", "face": "sans" } },
+    { "slug": "weekend-parents", "title": "Weekend Parents", "author": "Owen Castellanos", "genre": 9, "tags": ["Contemporary", "Family"], "cover": { "bg": "#ffd24a", "ink": "#0b2a6f", "accent": "#ff008c", "motif": "zigzag", "layout": "top", "face": "sans" } },
+    { "slug": "tell-me-something-true", "title": "Tell Me Something True", "author": "Priyanka Roy", "genre": 9, "tags": ["Contemporary", "LGBTQIA+"], "cover": { "bg": "#feb6fa", "ink": "#3b308f", "accent": "#1ce8ed", "motif": "heart", "layout": "center", "face": "hand" } },
+    { "slug": "the-unfollowing", "title": "The Unfollowing", "author": "Jude Marlowe", "genre": 9, "tags": ["Contemporary", "Satire"], "cover": { "bg": "#111111", "ink": "#2de124", "accent": "#f2f2f2", "motif": "window", "layout": "stack", "face": "display" } },
+
+    { "slug": "how-to-bury-a-grudge", "title": "How to Bury a Grudge", "author": "Wren Adebayo", "genre": 10, "tags": ["Satire", "Mystery"], "cover": { "bg": "#f9a220", "ink": "#111111", "accent": "#ffffff", "motif": "spiral", "layout": "top", "face": "display" } },
+    { "slug": "the-snack-manifesto", "title": "The Snack Manifesto", "author": "Dev Malhotra", "genre": 10, "tags": ["Non-Fiction", "Humour"], "cover": { "bg": "#ff008c", "ink": "#ffd24a", "accent": "#111111", "motif": "dots", "layout": "center", "face": "display" } },
+    { "slug": "field-notes-on-falling", "title": "Field Notes on Falling", "author": "Clara Oduya", "genre": 10, "tags": ["Memoir", "Nature"], "cover": { "bg": "#0f766e", "ink": "#e8d8c3", "accent": "#fbbe63", "motif": "mountain", "layout": "bottom", "face": "hand" } },
+    { "slug": "the-puzzle-box-murders", "title": "The Puzzle Box Murders", "author": "Hamish Greer", "genre": 10, "tags": ["Mystery", "Cosy"], "cover": { "bg": "#3b308f", "ink": "#f2f2f2", "accent": "#2de124", "motif": "stripes", "layout": "stack", "face": "sans" } },
+
+    { "slug": "lights-out-twelve-small-frights", "title": "Lights Out: Twelve Small Frights", "author": "Dog-Ear Authors", "genre": 0, "tags": ["Dog-Ear Original", "Horror"], "blurb": "Dog-Ear turned three this autumn, so we asked twelve of the authors we've shipped to write the scariest thing they could fit in under thirty pages. They over-delivered.", "cover": { "bg": "#111111", "ink": "#ffd24a", "accent": "#fd48f2", "motif": "eye", "layout": "stack", "face": "display" } }
+  ],
+  "monthlyPicks": [
+    "salt-in-the-walls",
+    "orbital-lullaby",
+    "meet-me-at-closing-time",
+    "the-quiet-floor",
+    "crown-of-moths",
+    "group-chat"
+  ],
+  "winners": [
+    { "year": 2025, "slug": "the-ink-wardens" },
+    { "year": 2024, "slug": "slow-poison" },
+    { "year": 2023, "slug": "small-weather" }
+  ],
+  "original": {
+    "slug": "lights-out-twelve-small-frights",
+    "rating": "4.3",
+    "authors": "Mara Quill, Rowan Blackmere, Beatrix Lorne, Silas Northmoor, Iris Vantongeren, Desmond Achebe-Ross, Margarethe Vos, Kit Adeyemi",
+    "quote1": "\"Twelve stories, zero duds. I read it in one night and regretted the timing.\" - Priya",
+    "quote2": "\"The one about the stairwell has ruined stairwells for me.\" - Tomasz"
+  }
+}

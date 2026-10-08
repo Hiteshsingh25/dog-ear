@@ -1,0 +1,6 @@
+.snaps/
+.next/
+node_modules/
+
+# archives
+*.zip
